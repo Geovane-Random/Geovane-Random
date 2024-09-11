@@ -1,1 +1,1 @@
-Olá, estou aprendendo git e java.
+Olá,java e também colaboro com traduções do En-Us para Pt-Br.
