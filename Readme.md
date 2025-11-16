@@ -17,9 +17,6 @@ Além do desenvolvimento, sou um colaborador ativo na comunidade, contribuindo c
 
 ---
 
-#### 📈 Contribuições Diárias (Streaks)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geovane-Random&theme=dark)
-
 ### 📊 Estatísticas e Atividade no GitHub
 
 Minhas estatísticas de contribuição e as linguagens que mais utilizo em meus projetos públicos:
@@ -28,9 +25,12 @@ Minhas estatísticas de contribuição e as linguagens que mais utilizo em meus 
 | :---: | :---: |
 | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Geovane-Random&show_icons=true&theme=dark&include_all_commits=true&count_private=true) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Random&layout=compact&theme=dark) |
 
+#### 📈 Contribuições Diárias (Streaks)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geovane-Random&theme=dark)
 ---
 
 ### 📫 Conecte-se Comigo
 
 * LinkedIn https://www.linkedin.com/in/geovane-sousa-da-silva-8241401aa/
+
 
