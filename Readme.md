@@ -23,10 +23,10 @@ Minhas estatísticas de contribuição e as linguagens que mais utilizo em meus 
 
 | Estatísticas Gerais | Linguagens Principais |
 | :---: | :---: |
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Geovane-Random&show_icons=true&theme=dark&include_all_commits=true&count_private=true) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Random&layout=compact&theme=dark) |
+| ![Estatísticas do GitHub](![Geovane-Random's Stats](https://github-readme-stats.vercel.app/api?username=Geovane-Random&theme=gotham&show_icons=true&hide_border=true&count_private=true)) | ![Top Linguagens](![Geovane-Random's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Random&theme=gotham&show_icons=true&hide_border=true&layout=compact) |
 
 #### 📈 Contribuições Diárias (Streaks)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geovane-Random&theme=dark)
+![Geovane-Random's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geovane-Random&theme=gotham&hide_border=true)
 ---
 
 ### 📫 Conecte-se Comigo
